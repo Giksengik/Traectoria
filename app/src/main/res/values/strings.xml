@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Сервисы ВК</string>
+    <string name="loading_error_description">Произошла ошибка, попробуйте еще раз</string>
+    <string name="loading_error_button_text">Перезагрузить</string>
+</resources>

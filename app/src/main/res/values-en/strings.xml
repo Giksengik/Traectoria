@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VK Services</string>
+    <string name="loading_error_description">An error has occurred, please try again</string>
+    <string name="loading_error_button_text">Refresh</string>
+</resources>
